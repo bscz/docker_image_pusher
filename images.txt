@@ -1,1 +1,1 @@
---platform=linux/arm64 gcr.io/cadvisor/cadvisor:v0.49.1
+--platform=linux/arm64 golang:1.21.12
