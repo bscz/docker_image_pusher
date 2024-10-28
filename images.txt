@@ -1,1 +1,1 @@
---platform=linux/arm64 golang:1.21.12
+--platform=linux/x86 dannicool/docker-wechatbot-webhook:latest
