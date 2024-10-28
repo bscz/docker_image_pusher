@@ -1,1 +1,1 @@
---platform=linux/x86 dannicool/docker-wechatbot-webhook:latest
+dannicool/docker-wechatbot-webhook:latest
