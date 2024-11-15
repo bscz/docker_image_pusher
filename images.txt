@@ -7,3 +7,4 @@ ubuntu/squid:latest
 certbot/certbot
 nginx:latest
 semitechnologies/weaviate:1.19.0
+
