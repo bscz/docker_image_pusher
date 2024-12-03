@@ -8,3 +8,4 @@ certbot/certbot
 nginx:latest
 semitechnologies/weaviate:1.19.0
 nginx:arm64v8-latest
+nginx:latest-aarch64
