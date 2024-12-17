@@ -7,3 +7,5 @@
 --platform=linux/aarch64 certbot/certbot
 --platform=linux/aarch64 nginx:latest
 --platform=linux/aarch64 semitechnologies/weaviate:1.19.0
+
+docker.io/library/node:20-alpine3.20
